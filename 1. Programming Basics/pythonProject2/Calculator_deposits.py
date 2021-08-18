@@ -1,0 +1,5 @@
+amount_deposited = float(input())
+term = int(input())
+rate = float(input())
+total = amount_deposited + term *((amount_deposited*(rate / 100))/12)
+print(total)
