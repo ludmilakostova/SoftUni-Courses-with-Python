@@ -1,0 +1,6 @@
+every
+word
+is
+on
+new
+line
