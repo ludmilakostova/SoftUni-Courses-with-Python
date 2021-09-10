@@ -1,0 +1,6 @@
+{"id": 1, "name": "prod1", "img_path": "first.jpg", "count": 1}
+{"id": 2, "name": "prod2", "img_path": "second.jpg", "count": 7}
+{"id": 3, "name": "prod3", "img_path": "first.jpg", "count": 12}
+{"id": 4, "name": "prod4", "img_path": "second.jpg", "count": 16}
+{"id": 5, "name": "prod5", "img_path": "first.jpg", "count": 20}
+{"id": 6, "name": "prod6", "img_path": "second.jpg", "count": 22}
